@@ -9,6 +9,7 @@ But instead of making boring dates and names, I decided to make an automatic sch
 - Automatically highlights the next upcoming date
 - Deletes all past dates
 - Sorts all dates so that the earliest date is always at the top
+- Updates every midnight
 
 <h2>🔗Links:</h2>
 
