@@ -13,4 +13,5 @@ But instead of making boring dates and names, I decided to make an automatic sch
 <h2>Links:</h2>
 
 Video Overview: https://youtu.be/WzgaJ1SPL3E
+
 Actual Template: https://docs.google.com/spreadsheets/d/15F-MZCSGYGp43LLEIXEb_sRQNOpWtTY0rjaigu8oo1s/edit?usp=sharing
