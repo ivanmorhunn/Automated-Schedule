@@ -13,8 +13,7 @@ But instead of making boring dates and names, I decided to make an automatic sch
 
 <h2>🔗Links:</h2>
 
-Video Overview: https://youtu.be/WzgaJ1SPL3E
-
-Actual Template: https://docs.google.com/spreadsheets/d/15F-MZCSGYGp43LLEIXEb_sRQNOpWtTY0rjaigu8oo1s/edit?usp=sharing
+### [YouTube Demonstration](https://youtu.be/WzgaJ1SPL3E)
+### [Actual Template](https://docs.google.com/spreadsheets/d/15F-MZCSGYGp43LLEIXEb_sRQNOpWtTY0rjaigu8oo1s/edit?usp=sharing)
 
 _You can simply make a copy of the template and modify it to your liking. Don't forget that the script needs the user's permission, because the script in order to work, it must have full access to the document._
