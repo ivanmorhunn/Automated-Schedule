@@ -1,6 +1,6 @@
 <h1>🗓️ Automated-Schedule</h1>
 
-<h2>📝 Description</h2>
+<h2>📝 Description:</h2>
 At my church we have an audio team, and I had the task of making a nice template so the guys could see their schedule. 
 But instead of making boring dates and names, I decided to make an automatic schedule that would update every night.
 
