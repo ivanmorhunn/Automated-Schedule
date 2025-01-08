@@ -57,6 +57,9 @@ function deletePastDatesAndReorder() {
   // Center align all rows containing future data
   sheet.getRange(2, 1, futureData.length, futureData[0].length).setHorizontalAlignment("center");
 
+  // Reset colors in the range B2:G300
+  sheet.getRange(2, 2, 299, 6).setBackground(null);
+
   // Reapply the existing conditional formatting rules
   sheet.setConditionalFormatRules(existingFormats);
 }
